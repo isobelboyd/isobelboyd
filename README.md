@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm Isobel, welcome to my GitHub page! 👋
 
-<!--
-**isobelboyd/isobelboyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a soon to be gradute from the University of Iowa Tippie College of Business with a degree in Business Analytics and Information Systems.
 
-Here are some ideas to get you started:
+I'm originally from Denver, CO and I enjoy spending my free time with my friends, family and dog.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡️ Fun Facts
+
+### 📫 How to reach me
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isobel-boyd-21a74a1a8/)
+
+### 👩‍💻 I'm currently working on...
+
+- Building a personal portfolio site using HTML, Java, and CSS, while also collecting user information through Google Analytics.
+
+### 🧠 I'm currently learning...
+
+- HTML, Java and CSS 
+
+## 🛠 Skills
+- Has strong interpersonal skills; excels working in teams 
+- Has knowledge on Microsoft Office, Python, SQL, and R. 
+- Adapts to different given environments and learns new skills quickly
