@@ -1,7 +1,7 @@
 # Hi, I'm Isobel, welcome to my GitHub page! 👋
 
 ## 🚀 About Me
-I'm a soon to be graduate from the University of Iowa Tippie College of Business with a degree in Business Analytics and Information Systems.
+I am a 2023 graduate from the University of Iowa Tippie College of Business with a degree in Business Analytics and Information Systems.
 
 I'm originally from Denver, CO and I enjoy spending my free time with my friends, family and dog.
 
